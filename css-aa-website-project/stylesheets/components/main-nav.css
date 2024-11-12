@@ -1,0 +1,7 @@
+.nav-ul {
+    display:flex;
+    font-size: 11px;
+    justify-content: space-between;
+    margin: 0 12%;
+    padding: 10px 0;
+}
