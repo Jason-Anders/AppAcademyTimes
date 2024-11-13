@@ -1,5 +1,5 @@
 body {
-    min-width: 740px;
+    min-width: 760px;
 }
 
 main {
@@ -7,7 +7,7 @@ main {
     font-size:12px;
     grid-template-columns: 30% 40% 30%;
     grid-template-rows: 1fr 10fr 6fr;
-    min-width: 680px;
+    min-width: 700px;
 }
 
 a:hover {
